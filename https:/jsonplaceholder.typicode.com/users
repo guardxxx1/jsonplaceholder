@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "jethro",
+      "email": "r234",
+      "contactnumber": "jrehet23"
+    },
+    {
+      "id": 4,
+      "name": "tqqwe1",
+      "email": "51241t2",
+      "contactnumber": "5123123"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
